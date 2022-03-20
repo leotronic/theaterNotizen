@@ -1,3 +1,3 @@
 # theaterNotizen
 
-Kuckstu wiki[https://github.com/leotronic/theaterNotizen/wiki]
+Kuckstu wiki: https://github.com/leotronic/theaterNotizen/wiki
